@@ -3,9 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>dotnet-dotnet_service_worker-D8F18B8B-0CBF-4DA7-852F-B972811822BF</UserSecretsId>
-    <RootNamespace>dotnet_service_worker</RootNamespace>
+    <UserSecretsId>dotnet-TestService-B302BCC5-F069-4E80-80C7-B36D2138CEA1</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>

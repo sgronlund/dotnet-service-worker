@@ -1,4 +1,9 @@
-namespace dotnet_service_worker;
+namespace TestService;
+using Microsoft.Extensions.Logging;
+using System.Threading;
+using System.Threading.Tasks;
+using System;
+using Microsoft.Extensions.Hosting;
 
 public class Worker : BackgroundService
 {
